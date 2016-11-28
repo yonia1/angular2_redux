@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ANGULARREDUX
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3.
@@ -29,3 +30,6 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular2_redux
+>>>>>>> c2859bb87c2b1c378ea2bbb28b9b2253f3c343f9
